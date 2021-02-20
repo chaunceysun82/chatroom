@@ -1,0 +1,6 @@
+.idea/
+_pycache_/
+venv/
+flask_session/
+
+
